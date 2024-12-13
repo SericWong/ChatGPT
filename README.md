@@ -8,7 +8,7 @@ ChatGPT 中文版是由 OpenAI 开发的 ChatGPT 模型的中文优化版本，�
 
 | 镜像站名称 | 网址 | 支持版本 | 免费额度 | 功能亮点 |
 |------------|------|----------|-----------|-----------|
-| AIBox 一站式AI平台 | [aibox365](https://chat.aibox365.cn) | GPT-4o, Claude3.5, Gemini, o1 | 注册赠送算力55，每天登录赠送10次GPT4对话 | 支持GPT全模型，支持Midjourney、AIPPT |
+| AIBox 一站式AI平台 | [aibox365.com](https://chat.aibox365.cn) | GPT-4o, Claude3.5, Gemini, o1 | 注册赠送算力55，每天登录赠送10次GPT4对话 | 支持GPT全模型，支持Midjourney、AIPPT |
 | 蛇语 AI | [snakegpt.work](https://snakegpt.work) | GPT-4, GPT-3.5 | 注册后5次 | 支持 GPT-4、AI 绘图 |
 | GPT 猫中文站 | [gptcat.net](https://gptcat.net) | GPT-4, GPT-o1 | 10次 | 中文界面，无广告 |
 | 熊猫 GPT | [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47) | GPT-4, GPT-3.5 | 10次 | 稳定快速，支持 API 调用 |
