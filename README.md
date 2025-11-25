@@ -1,15 +1,15 @@
-# ChatGPT 中文版：免费使用指南与镜像网站推荐（支持 GPT-4，无需翻墙）
+# ChatGPT 中文版：免费使用指南与镜像网站推荐（支持 GPT-5，无需翻墙）
 
 > 更新时间：2025-11-24
 
-ChatGPT 中文版是由 OpenAI 开发的 ChatGPT 模型的中文优化版本，专为中文用户提供流畅且精准的对话体验。本指南整合了国内可用的 ChatGPT镜像网站 和官网使用教程，帮助您快速掌握 ChatGPT，无论是个人使用还是专业应用，均可使用 ChatGPT-4、GPT-4o 和 o1-preview！
+ChatGPT 中文版是由 OpenAI 开发的 ChatGPT 模型的中文优化版本，专为中文用户提供流畅且精准的对话体验。本指南整合了国内可用的 ChatGPT镜像网站 和官网使用教程，帮助您快速掌握 ChatGPT，无论是个人使用还是专业应用，均可使用 ChatGPT-5、GPT-4o 和 o1-preview！
 
 ## 国内可用的 ChatGPT 中文版镜像站推荐
 
 | 镜像站名称 | 网址 | 支持版本 | 免费额度 | 功能亮点 |
 |------------|------|----------|-----------|-----------|
 | AIBox 一站式AI平台 | [aibox365.com](https://chat.aibox365.cn) | GPT-4o, Claude3.5, Gemini, o1 | 注册赠送算力55，每天登录赠送10次GPT4对话 | 支持GPT全模型，支持Midjourney、AIPPT |
-| 蛇语 AI | [snakegpt.work](https://snakegpt.work) | GPT-4, GPT-3.5 | 注册后5次 | 支持 GPT-4、AI 绘图 |
+| 写作 AI | [write.work](https://chat.write360.cn) | GPT-5, GPT-4o，Claude4.5，Gemini3.0 | 注册后5次 | 支持 GPT-4、AI 绘图 |
 | GPT 猫中文站 | [gptcat.net](https://gptcat.net) | GPT-4, GPT-o1 | 10次 | 中文界面，无广告 |
 | 熊猫 GPT | [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47) | GPT-4, GPT-3.5 | 10次 | 稳定快速，支持 API 调用 |
 
